@@ -1,2 +1,2 @@
-# DynamicProgramming-FreeCodeCamp-C++
-Dynamic Programming - FreeCodeCamp - C++
+# DynamicProgramming-FreeCodeCamp-C#
+Dynamic Programming - FreeCodeCamp - C#
